@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionHome"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/actionFavorite"
+        android:title="Favorite"
+        android:icon="@drawable/lupa"/>
+    <item
+        android:id="@+id/actionVideos"
+        android:title="Menu"
+        android:icon="@drawable/videos"/>
+    <item
+        android:id="@+id/actionCard"
+        android:title="Menu"
+        android:icon="@drawable/magazin"/>
+    <item
+        android:id="@+id/actionProfile"
+        android:title="Profile"
+        android:icon="@drawable/profile"/>
+</menu>
